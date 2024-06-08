@@ -27,4 +27,4 @@ O projeto de redesign da landing page do Banco neon é um projeto de demonstraç
 A página é responsiva para diversos dispositivos, possui animações durante o scroll e um pequeno efeito de cartões flutuantes.
 Destaque para utilização do Swiper slider e a responsividade do mesmo.
 
-- [Acesse o projeto finalizado, online](https://andersonquym.github.io/lp-neon/)
+- [Acesse o projeto finalizado, online](https://quymcode.github.io/lp-neon/)
